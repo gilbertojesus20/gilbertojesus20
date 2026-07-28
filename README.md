@@ -32,9 +32,10 @@ Diseño, implemento y optimizo entornos híbridos —on-premise y cloud— con f
 
 <p align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,azure,gcp,digitalocean,docker,kubernetes,terraform,git,github,githubactions,linux,ubuntu,windows,bash,powershell,python,java,vscode&theme=dark&perline=9" />
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,digitalocean,docker,kubernetes,terraform,git,github,githubactions,linux,ubuntu,windows,bash,powershell,python,java,vscode&theme=light&perline=9" alt="Stack técnico: AWS, Azure, GCP, DigitalOcean, Docker, Kubernetes, Terraform, Git, GitHub, GitHub Actions, Linux, Ubuntu, Windows, Bash, PowerShell, Python, Java, VS Code" />
-  </picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,azure,gcp,digitalocean,docker,kubernetes,terraform,git,github,githubactions,linux,ubuntu,windows,bash,powershell,python,java,vscode&theme=dark&perline=9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,azure,gcp,digitalocean,docker,kubernetes,terraform,git,github,githubactions,linux,ubuntu,windows,bash,powershell,python,java,vscode&theme=light&perline=9" />
+  <img alt="Stack técnico" src="https://skillicons.dev/icons?i=aws,azure,gcp,digitalocean,docker,kubernetes,terraform,git,github,githubactions,linux,ubuntu,windows,bash,powershell,python,java,vscode&theme=light&perline=9" />
+</picture>
 </p>
 
 ### ☁️ Cloud Computing
