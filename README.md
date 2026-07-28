@@ -28,7 +28,7 @@ Diseño, implemento y optimizo entornos híbridos —on-premise y cloud— con f
 
 ---
 
-## 🧠 Stack técnico
+## Stack
 
 <p align="left">
   <picture>
